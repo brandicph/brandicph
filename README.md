@@ -1,37 +1,23 @@
-### Hi there 👋
+```ansi
+> booting... █████████████░░░░░░░░░ 63%
+> identity loaded: maker / breaker / builder
+> location: the cloud, mostly
+> status: online
+```
 
-#### 🔭 I’m currently working on ...
-Analytics for Linkedin [@shieldapp](https://github.com/shieldapp).
+### 🛠 what I do
 
-#### 🌱 I’m currently learning ...
-Automated orchestration ([@kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)) and stream-based micro-service architectures using ([@apache/kafka](https://github.com/apache/kafka)).
+* Build things
+* Stitch integrations across APIs, clouds, and random protocols
+* Code, solder, 3D print, break, rebuild
 
-#### 👯 I’m looking to collaborate on ...
-Awesome projects and with people that like to challenge themself and raise their quality bar! 💪
+### 🚀 current obsessions
 
-#### 🤔 I’m looking for help with ...
-Getting in touch with the coolest peeps in the world!
+* AI agents & MCP frameworks
+* Cloud-native / serverless (Cloudflare Workers, Vercel, Supabase, Neon)
+* Marketplace platforms (Stripe, Stripe Connect)
 
-#### 💬 Ask me about ...
-Anything 😊
+### 📡 connect
 
-#### 📫 How to reach me ...
-Linkedin: [https://www.linkedin.com/in/alexanderbrandi/](https://www.linkedin.com/in/alexanderbrandi/)
-
-#### ⚡ Fun fact: ...
-Used to play the Accordion 🎶
-
-<!--
-**brandicph/brandicph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* LinkedIn: [alexanderbrandi](https://www.linkedin.com/in/alexanderbrandi/)
+* GitHub: [@brandicph](https://github.com/brandicph)
